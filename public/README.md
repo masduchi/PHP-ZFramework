@@ -1,0 +1,1 @@
+Folder untuk file-file yang digunakan dalam website dan bisa dilihat langsung oleh user, seperti gambar artikel, gambar user, dan lain-lain

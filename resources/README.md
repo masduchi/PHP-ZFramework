@@ -1,0 +1,1 @@
+Folder untuk file penting dari halaman website yang merupakan style untuk layout website, seperti file JavaScript, CSS, Fonts, dan lain-lain.
